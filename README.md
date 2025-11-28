@@ -141,7 +141,7 @@ class GetStockMovementsUseCase @Inject constructor(
 }
 ```
 ---
-# **Key Features**
+# ✨Key Features
 
 * **Advanced Inventory Management:** Product entry, barcode lookup, stock movement tracking.
 
@@ -154,6 +154,16 @@ class GetStockMovementsUseCase @Inject constructor(
 * **Reporting:** Detailed filtering for stock history and movements.
 
 * **Dark Mode:** Fully supported dark/light theme adaptation.
+---
+---
+
+# 👨‍💻 Contact
+
+I am available to discuss the technical architecture and development process of this project.
+
+* [LinkedIn](https://www.linkedin.com/in/izzet-han-çelikdemir-157184309)
+* [E-Mail](ihancelikdemir@gmail.com)
+
 ---
 
 

@@ -108,8 +108,12 @@ The application follows **Clean Architecture** principles to ensure separation o
     * Manages data sources *(Local Room DB vs. Remote API)* acting as the **Single Source of Truth**.
     * Handles network connectivity states via `ConnectivityObserver`.
 
->[Here is the screenshot of private repository's file hierarchy to help you understand *(some places are censored for privacy)*](https://imgur.com/jfuqezO)
----
+<details>
+  <summary><b>📂 Click to view full Project Architecture (Source Tree)</b></summary>
+  <br>
+  <img src="https://imgur.com/jfuqezO.png" alt="Project Hierarchy">
+</details>
+
 
 ### 🧩 Code Snippets
 

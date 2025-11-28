@@ -162,7 +162,7 @@ class GetStockMovementsUseCase @Inject constructor(
 I am available to discuss the technical architecture and development process of this project.
 
 * [LinkedIn](https://www.linkedin.com/in/izzet-han-çelikdemir-157184309)
-* [E-Mail](mailto:ihancelikdemir@gmail.com)
+* [ihancelikdemir@gmail.com](mailto:ihancelikdemir@gmail.com)
 
 ---
 

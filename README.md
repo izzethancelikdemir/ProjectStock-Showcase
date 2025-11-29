@@ -2,7 +2,7 @@
 > **Note:** As this project is being prepared for commercial release, the source code is kept in a **Private Repository**. This showcase repository demonstrates the project's tech stack, architecture, and capabilities.
 
  ## 📱 About the Project
- **Project Stock** is a comprehensive **B2B Android Application** designed for businesses to manage inventory, personnel, orders, and warehouse counting processes from a single platform *(also a supplier module is work in progress for now)*. It is built with modern Android development standards, ensuring scalability *(tablet and phone layouts)* and testability.
+ **Project Stock** is a comprehensive **B2B Android Application** designed for businesses to manage inventory, personnel, orders, and warehouse counting processes from a single platform *(also a supplier module is work in progress for now)*. It is built with modern Android development standards, ensuring scalability and testability. It also have multi-layout design for both wide and compact screens. *(Tablet and Phone Layout)*
 
 ---
 

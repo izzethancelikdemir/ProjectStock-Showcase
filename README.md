@@ -80,7 +80,7 @@ Built with industry-standard modern libraries and tools:
 * **Architecture:** Clean Architecture *(MVVM + Repository Pattern)*
 * **Dependency Injection:** [Hilt *(Dagger)*](https://dagger.dev/hilt/)
 * **Concurrency:** Coroutines & Flow
-* **Network:** [Retrofit](https://square.github.io/retrofit/) & OkHttp & Gson
+* **Network:** [Retrofit](https://square.github.io/retrofit/) & OkHttp & KotlinX Serialization
 * **Navigation:** Jetpack Navigation Compose
 * **Key Libraries:**
     * **ML Kit:** For high-speed Barcode & QR code scanning.

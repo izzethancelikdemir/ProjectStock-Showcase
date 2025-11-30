@@ -81,13 +81,12 @@ Built with industry-standard modern libraries and tools:
 * **Dependency Injection:** [Hilt *(Dagger)*](https://dagger.dev/hilt/)
 * **Concurrency:** Coroutines & Flow
 * **Network:** [Retrofit](https://square.github.io/retrofit/) & OkHttp & Gson
-* **Local Database:** [Room Database](https://developer.android.com/training/data-storage/room) *(Offline-first approach)*
 * **Navigation:** Jetpack Navigation Compose
 * **Key Libraries:**
     * **ML Kit:** For high-speed Barcode & QR code scanning.
     * **CameraX:** In-app camera handling.
     * **Coil:** Asynchronous image loading.
-    * **DataStore:** Type-safe data storage for user preferences.
+    * **DataStore:** Type-safe data storage for user preferences and used for session management and role-based modules.
     * **Accompanist:** Permission handling.
     * **Kotlinx Serialization:** JSON serialization.
 
@@ -105,7 +104,7 @@ The application follows **Clean Architecture** principles to ensure separation o
     * Encapsulates business logic in `UseCase` classes *(e.g., `GetStockMovementsUseCase`)*.
 3.  **Data Layer:**
     * Implements the `Repository` pattern *(`StockRepositoryImpl`)*.
-    * Manages data sources *(Local Room DB vs. Remote API)* acting as the **Single Source of Truth**.
+    * Manages user data and auth role *(Preferences DataStore)*.
     * Handles network connectivity states via `ConnectivityObserver`.
 
 <details>
